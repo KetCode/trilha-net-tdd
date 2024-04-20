@@ -1,0 +1,12 @@
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\bin\Debug\net8.0\trilha-net-tdd.deps.json
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\bin\Debug\net8.0\trilha-net-tdd.dll
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\bin\Debug\net8.0\trilha-net-tdd.pdb
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\trilha-net-tdd.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\trilha-net-tdd.AssemblyInfoInputs.cache
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\trilha-net-tdd.AssemblyInfo.cs
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\trilha-net-tdd.csproj.CoreCompileInputs.cache
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\trilha-net-tdd.sourcelink.json
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\trilha-net-tdd.dll
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\refint\trilha-net-tdd.dll
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\trilha-net-tdd.pdb
+c:\Users\kesse\Documents\GitHub\trilha-net-tdd\trilha-net-tdd\obj\Debug\net8.0\ref\trilha-net-tdd.dll
